@@ -59,7 +59,7 @@ function App() {
       </Bounce>
       <footer>
         <Flip bottom>
-          <h4>© 2022 - Crée avec ❤ par <a href="https://justinelo-portfolio.netlify.app">Justine Lo</a></h4>
+          <h4>© 2022 - Créé avec ❤ par <a href="https://justinelo-portfolio.netlify.app">Justine Lo</a></h4>
         </Flip>
       </footer>
     </>
